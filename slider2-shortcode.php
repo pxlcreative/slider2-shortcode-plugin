@@ -8,7 +8,7 @@ Author: PXL Creative
 Author URI: http://www.pxlcreative.com/
 */
 
-define('SLIDER2_SHORTCODE_PLUGIN_URL', plugins_url() . "/slider2-shortcode");
+define('SLIDER2_SHORTCODE_PLUGIN_URL', plugins_url() . "/slider2-shortcode-plugin");
 
 
 add_shortcode('slider2slider','func_slider2slider');
